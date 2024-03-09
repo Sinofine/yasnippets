@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
-# name: bar
-# key: bar
+# name: brr
+# key: brr
 # condition: (and (texmathp) 'auto)
 # expand-env: ((argument (quote t)))
 # group: math

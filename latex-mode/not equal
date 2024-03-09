@@ -1,6 +1,6 @@
 # -*- mode: snippet -*-
 # name: not equal
-# key: neq
+# key: nqq
 # condition: (and (texmathp) 'auto)
 # group: math
 # --

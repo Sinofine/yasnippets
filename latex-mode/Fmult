@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: infimum
-# key: inff
+# name: Fmult
+# key: Fmult
 # condition: (and (texmathp) 'auto)
-# group: math
 # --
-\\inf_{$1 \\in $2} $0
+
+\mathbb{F}_{p}^{*}$0

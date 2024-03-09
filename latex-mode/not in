@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
 # name: not in
-# key: notin
+# key: noin
 # condition: (and (texmathp) 'auto)
 # group: math
 # --
-\\not\\in
+\\notin

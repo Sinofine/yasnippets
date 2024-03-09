@@ -1,7 +1,7 @@
 # -*- mode: snippet -*-
-# name: infimum
-# key: inff
+# name: QQQ
+# key: QQ
 # condition: (and (texmathp) 'auto)
-# group: math
 # --
-\\inf_{$1 \\in $2} $0
+
+\mathbb{Q}$0
